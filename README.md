@@ -1,4 +1,4 @@
-# Memory-Handling-Simulation in C++
+# Memory Handling Simulation in C++
 
 Part A is a worst-fit dynamic partition memory allocator, approximating some of the C library functions malloc() and free(). 
 Given page size, allocation/deallocaion requestss, and starting memory size, simulation will show statisics, partition states, and addresses at each stage. Allocation follows worst-fit and deallocation will also merge any adjacent free partitions. 
